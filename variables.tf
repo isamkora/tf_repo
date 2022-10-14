@@ -26,3 +26,4 @@ variable "region" {
     subnet2_AZ = string
   }))
 }
+
